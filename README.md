@@ -8,3 +8,5 @@ This repo will help you along with your Hackerrank Journey.
 [3.arithmetic_operators.py](https://github.com/DeepakAdoor05/Python_hackerrank/blob/main/arithmetic_operators.py)
 
 [4.division.py](https://github.com/DeepakAdoor05/Python_hackerrank/blob/main/division.py)
+
+[5.loops.py]
