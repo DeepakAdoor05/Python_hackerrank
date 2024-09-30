@@ -9,4 +9,5 @@ This repo will help you along with your Hackerrank Journey.
 
 [4.division.py](https://github.com/DeepakAdoor05/Python_hackerrank/blob/main/division.py)
 
-[5.loops.py]
+[5.loops.py](https://github.com/DeepakAdoor05/Python_hackerrank/blob/main/loops.py)
+
