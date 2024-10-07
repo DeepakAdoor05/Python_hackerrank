@@ -12,3 +12,5 @@ This repo will help you along with your Hackerrank Journey.
 [5.loops.py](https://github.com/DeepakAdoor05/Python_hackerrank/blob/main/loops.py)
 
 [6.leap_year.py](https://github.com/DeepakAdoor05/Python_hackerrank/blob/main/leap_year.py)
+
+[7.print_function.py](https://github.com/DeepakAdoor05/Python_hackerrank/blob/main/print_function.py)
