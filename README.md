@@ -1,13 +1,13 @@
 # Python_hackerrank
 This repo will help you along with your Hackerrank Journey.
 # Programs listed in order
-[1.hello_world.py](https://github.com/DeepakAdoor05/Python_hackerrank/blob/main/hello_world.py)
+[1.Say "Hello, World!" With Python](https://github.com/DeepakAdoor05/Python_hackerrank/blob/main/hello_world.py)
 
-[2.if_else.py](https://github.com/DeepakAdoor05/Python_hackerrank/blob/main/if_else.py)
+[2.Python If_Else](https://github.com/DeepakAdoor05/Python_hackerrank/blob/main/if_else.py)
 
-[3.arithmetic_operators.py](https://github.com/DeepakAdoor05/Python_hackerrank/blob/main/arithmetic_operators.py)
+[3.Arithmetic Operators](https://github.com/DeepakAdoor05/Python_hackerrank/blob/main/arithmetic_operators.py)
 
-[4.division.py](https://github.com/DeepakAdoor05/Python_hackerrank/blob/main/division.py)
+[4.Python: Division](https://github.com/DeepakAdoor05/Python_hackerrank/blob/main/division.py)
 
 [5.Loops](https://github.com/DeepakAdoor05/Python_hackerrank/blob/main/loops.py)
 
