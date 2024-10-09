@@ -9,8 +9,10 @@ This repo will help you along with your Hackerrank Journey.
 
 [4.division.py](https://github.com/DeepakAdoor05/Python_hackerrank/blob/main/division.py)
 
-[5.loops.py](https://github.com/DeepakAdoor05/Python_hackerrank/blob/main/loops.py)
+[5.Loops](https://github.com/DeepakAdoor05/Python_hackerrank/blob/main/loops.py)
 
-[6.leap_year.py](https://github.com/DeepakAdoor05/Python_hackerrank/blob/main/leap_year.py)
+[6.Write a function](https://github.com/DeepakAdoor05/Python_hackerrank/blob/main/leap_year.py)
 
-[7.print_function.py](https://github.com/DeepakAdoor05/Python_hackerrank/blob/main/print_function.py)
+[7.Print Function](https://github.com/DeepakAdoor05/Python_hackerrank/blob/main/print_function.py)
+
+[8.List Comprehensions](https://github.com/DeepakAdoor05/Python_hackerrank/blob/main/list_comprehension.py)
