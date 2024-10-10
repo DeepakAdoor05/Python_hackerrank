@@ -17,4 +17,4 @@ This repo will help you along with your Hackerrank Journey.
 
 [8.List Comprehensions](https://github.com/DeepakAdoor05/Python_hackerrank/blob/main/list_comprehension.py)
 
-9.Find the Runner-Up Score!
+[9.(a) Find the Runner-Up Score!](https://github.com/DeepakAdoor05/Python_hackerrank/tree/main/Runner_up)
