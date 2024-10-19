@@ -13,8 +13,3 @@ for i in value_list:
     sum = sum + i
 average = sum/len(value_list)
 print(f"{average:.2f}")         #:.2f => 2 decimal points (56.00)
-#3
-#Krishna 67 68 69
-#Arjun 70 98 63
-#Malika 52 56 60
-#Malika
