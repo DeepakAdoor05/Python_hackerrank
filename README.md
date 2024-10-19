@@ -22,3 +22,5 @@ This repo will help you along with your Hackerrank Journey.
 [9.(b) Find the Runner-Up Score!](https://github.com/DeepakAdoor05/Python_hackerrank/blob/main/Runner_up/runner_up1.py)
 
 [10.Nested Lists](https://github.com/DeepakAdoor05/Python_hackerrank/blob/main/nested_lists.py)
+
+[11.Finding the percentage](https://github.com/DeepakAdoor05/Python_hackerrank/blob/main/finding_the_percentage.py)
