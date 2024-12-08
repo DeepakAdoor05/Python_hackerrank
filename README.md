@@ -17,7 +17,7 @@ This repo will help you along with your Hackerrank Journey.
 
 [8.List Comprehensions](https://github.com/DeepakAdoor05/Python_hackerrank/blob/main/list_comprehension.py)
 
-[9.(a) Find the Runner-Up Score!](https://github.com/DeepakAdoor05/Python_hackerrank/tree/main/Runner_up)
+[9.Find the Runner-Up Score!](https://github.com/DeepakAdoor05/Python_hackerrank/tree/main/Runner_up)
 
 [10.Nested Lists](https://github.com/DeepakAdoor05/Python_hackerrank/blob/main/nested_lists.py)
 
@@ -26,3 +26,5 @@ This repo will help you along with your Hackerrank Journey.
 [12.Lists](https://github.com/DeepakAdoor05/Python_hackerrank/blob/main/List_operations.py)
 
 [13.Tuples](https://github.com/DeepakAdoor05/Python_hackerrank/blob/main/tuples.py)
+
+[14.String Split and Join](https://github.com/DeepakAdoor05/Python_hackerrank/blob/main/split_and_join.py)
