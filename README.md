@@ -30,3 +30,5 @@ This repo will help you along with your Hackerrank Journey.
 [14.String Split and Join](https://github.com/DeepakAdoor05/Python_hackerrank/blob/main/split_and_join.py)
 
 [15.What's Your Name?](https://github.com/DeepakAdoor05/Python_hackerrank/blob/main/whats_your_name.py)
+
+[16.Mutations](https://github.com/DeepakAdoor05/Python_hackerrank/tree/main/Mutations)
