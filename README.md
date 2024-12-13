@@ -36,3 +36,5 @@ This repo will help you along with your Hackerrank Journey.
 [17.Find a string](https://github.com/DeepakAdoor05/Python_hackerrank/tree/main/Find_a_string)
 
 [18.String Validators](https://github.com/DeepakAdoor05/Python_hackerrank/tree/main/String_validators)
+
+[19.Text Allignment](https://github.com/DeepakAdoor05/Python_hackerrank/tree/main/text_allignment.py)
