@@ -38,3 +38,5 @@ This repo will help you along with your Hackerrank Journey.
 [18.String Validators](https://github.com/DeepakAdoor05/Python_hackerrank/tree/main/String_validators)
 
 [19.Text Allignment](https://github.com/DeepakAdoor05/Python_hackerrank/tree/main/text_allignment.py)
+
+[20.Text Wrap](https://github.com/DeepakAdoor05/Python_hackerrank/tree/main/Text_wrap)
