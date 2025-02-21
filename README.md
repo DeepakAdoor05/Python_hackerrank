@@ -48,3 +48,5 @@ This repo will help you along with your Hackerrank Journey.
 [23.Alphabet Rangoli](https://github.com/DeepakAdoor05/Python_hackerrank/tree/main/alphabet_rangoli.py)
 
 [24.Capitalize!](https://github.com/DeepakAdoor05/Python_hackerrank/tree/main/Capitalize)
+
+[25.The Minion Game](https://github.com/DeepakAdoor05/Python_hackerrank/tree/main/The_Minion_Game)
