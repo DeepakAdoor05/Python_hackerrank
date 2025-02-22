@@ -50,3 +50,5 @@ This repo will help you along with your Hackerrank Journey.
 [24.Capitalize!](https://github.com/DeepakAdoor05/Python_hackerrank/tree/main/Capitalize)
 
 [25.The Minion Game](https://github.com/DeepakAdoor05/Python_hackerrank/tree/main/The_Minion_Game)
+
+[26.Merge The Tools](https://github.com/DeepakAdoor05/Python_hackerrank/tree/main/Merge_The_Tools)
