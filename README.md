@@ -29,30 +29,30 @@ This repo will help you along with your Hackerrank Journey.
 
 [14.sWap cASE](https://github.com/DeepakAdoor05/Python_hackerrank/tree/main/swap_case)
 
-[14.String Split and Join](https://github.com/DeepakAdoor05/Python_hackerrank/blob/main/split_and_join.py)
+[15.String Split and Join](https://github.com/DeepakAdoor05/Python_hackerrank/blob/main/split_and_join.py)
 
-[15.What's Your Name?](https://github.com/DeepakAdoor05/Python_hackerrank/blob/main/whats_your_name.py)
+[16.What's Your Name?](https://github.com/DeepakAdoor05/Python_hackerrank/blob/main/whats_your_name.py)
 
-[16.Mutations](https://github.com/DeepakAdoor05/Python_hackerrank/tree/main/Mutations)
+[17.Mutations](https://github.com/DeepakAdoor05/Python_hackerrank/tree/main/Mutations)
 
-[17.Find a string](https://github.com/DeepakAdoor05/Python_hackerrank/tree/main/Find_a_string)
+[18.Find a string](https://github.com/DeepakAdoor05/Python_hackerrank/tree/main/Find_a_string)
 
-[18.String Validators](https://github.com/DeepakAdoor05/Python_hackerrank/tree/main/String_validators)
+[19.String Validators](https://github.com/DeepakAdoor05/Python_hackerrank/tree/main/String_validators)
 
-[19.Text Allignment](https://github.com/DeepakAdoor05/Python_hackerrank/tree/main/text_allignment.py)
+[20.Text Allignment](https://github.com/DeepakAdoor05/Python_hackerrank/tree/main/text_allignment.py)
 
-[20.Text Wrap](https://github.com/DeepakAdoor05/Python_hackerrank/tree/main/Text_wrap)
+[21.Text Wrap](https://github.com/DeepakAdoor05/Python_hackerrank/tree/main/Text_wrap)
 
-[21.Designer Door Mat](https://github.com/DeepakAdoor05/Python_hackerrank/tree/main/Designer_door_mat)
+[22.Designer Door Mat](https://github.com/DeepakAdoor05/Python_hackerrank/tree/main/Designer_door_mat)
 
-[22.String Formatting](https://github.com/DeepakAdoor05/Python_hackerrank/tree/main/string_formatting.py)
+[23.String Formatting](https://github.com/DeepakAdoor05/Python_hackerrank/tree/main/string_formatting.py)
 
-[23.Alphabet Rangoli](https://github.com/DeepakAdoor05/Python_hackerrank/tree/main/alphabet_rangoli.py)
+[24.Alphabet Rangoli](https://github.com/DeepakAdoor05/Python_hackerrank/tree/main/alphabet_rangoli.py)
 
-[24.Capitalize!](https://github.com/DeepakAdoor05/Python_hackerrank/tree/main/Capitalize)
+[25.Capitalize!](https://github.com/DeepakAdoor05/Python_hackerrank/tree/main/Capitalize)
 
-[25.The Minion Game](https://github.com/DeepakAdoor05/Python_hackerrank/tree/main/The_Minion_Game)
+[26.The Minion Game](https://github.com/DeepakAdoor05/Python_hackerrank/tree/main/The_Minion_Game)
 
-[26.Merge The Tools](https://github.com/DeepakAdoor05/Python_hackerrank/tree/main/Merge_The_Tools)
+[27.Merge The Tools](https://github.com/DeepakAdoor05/Python_hackerrank/tree/main/Merge_The_Tools)
 
 [28.Itertools]()
