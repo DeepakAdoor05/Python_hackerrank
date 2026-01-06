@@ -56,3 +56,5 @@ This repo will help you along with your Hackerrank Journey.
 [27.Merge The Tools](https://github.com/DeepakAdoor05/Python_hackerrank/tree/main/Merge_The_Tools)
 
 [28.itertools.product()](https://github.com/DeepakAdoor05/Python_hackerrank/tree/main/Itertools)
+
+[29.itertools.permutations()](https://github.com/DeepakAdoor05/Python_hackerrank/tree/main/Itertools_permutations)
