@@ -58,3 +58,7 @@ This repo will help you along with your Hackerrank Journey.
 [28.itertools.product()](https://github.com/DeepakAdoor05/Python_hackerrank/tree/main/Itertools)
 
 [29.itertools.permutations()](https://github.com/DeepakAdoor05/Python_hackerrank/tree/main/Itertools_permutations)
+
+[30.Polar Coordinates](https://github.com/DeepakAdoor05/Python_hackerrank/tree/main/Polar_coordinates.py)
+
+[31.itertools.permutations()](https://github.com/DeepakAdoor05/Python_hackerrank/tree/main/Itertools_permutations)
